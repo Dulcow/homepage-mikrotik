@@ -691,7 +691,9 @@
         "cpuLoad": "CPU Load",
         "memoryUsed": "Memory Used",
         "uptime": "Uptime",
-        "numberOfLeases": "Leases"
+        "numberOfLeases": "Leases",
+        "cpuTemperature": "CPU Temperature",
+        "sfpTemperature": "SFP Temperature"
     },
     "xteve": {
         "streams_all": "All Streams",
